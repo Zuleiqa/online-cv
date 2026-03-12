@@ -8,18 +8,18 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Zuleiqa Binti Tajudin
+  tagline: IIUM Computer Science Student
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
+  email: zuleiqa22@email.com
   phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
+  timezone: Malaysia # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Malaysian
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
+  linkedin: Zuleiqa Tajudin
+  xing: zuleiqa
   github: jekyll
   telegram: # add your nickname without '@' sign
   gitlab:
@@ -37,29 +37,17 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Malay
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
+    - idiom: English
       level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Tennis
       link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
-
 
 career-profile:
   title: Career Profile
@@ -73,9 +61,9 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Bachelor in Computer Science 
+    university: International Islamic University of Malaysia
+    time: 2024 - ongoing
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,18 +72,6 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
 experiences:
   title: Experiences
   info:
